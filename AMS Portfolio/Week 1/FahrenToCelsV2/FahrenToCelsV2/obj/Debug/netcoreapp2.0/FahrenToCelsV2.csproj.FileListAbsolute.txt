@@ -1,0 +1,11 @@
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\FahrenToCelsV2\FahrenToCelsV2\bin\Debug\netcoreapp2.0\FahrenToCelsV2.deps.json
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\FahrenToCelsV2\FahrenToCelsV2\bin\Debug\netcoreapp2.0\FahrenToCelsV2.runtimeconfig.json
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\FahrenToCelsV2\FahrenToCelsV2\bin\Debug\netcoreapp2.0\FahrenToCelsV2.runtimeconfig.dev.json
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\FahrenToCelsV2\FahrenToCelsV2\bin\Debug\netcoreapp2.0\FahrenToCelsV2.dll
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\FahrenToCelsV2\FahrenToCelsV2\bin\Debug\netcoreapp2.0\FahrenToCelsV2.pdb
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\FahrenToCelsV2\FahrenToCelsV2\obj\Debug\netcoreapp2.0\FahrenToCelsV2.csprojResolveAssemblyReference.cache
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\FahrenToCelsV2\FahrenToCelsV2\obj\Debug\netcoreapp2.0\FahrenToCelsV2.csproj.CoreCompileInputs.cache
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\FahrenToCelsV2\FahrenToCelsV2\obj\Debug\netcoreapp2.0\FahrenToCelsV2.AssemblyInfoInputs.cache
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\FahrenToCelsV2\FahrenToCelsV2\obj\Debug\netcoreapp2.0\FahrenToCelsV2.AssemblyInfo.cs
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\FahrenToCelsV2\FahrenToCelsV2\obj\Debug\netcoreapp2.0\FahrenToCelsV2.dll
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\FahrenToCelsV2\FahrenToCelsV2\obj\Debug\netcoreapp2.0\FahrenToCelsV2.pdb

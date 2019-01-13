@@ -1,0 +1,11 @@
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\Hello World! V3\Hello World! V3\bin\Debug\netcoreapp2.0\Hello World! V3.deps.json
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\Hello World! V3\Hello World! V3\bin\Debug\netcoreapp2.0\Hello World! V3.runtimeconfig.json
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\Hello World! V3\Hello World! V3\bin\Debug\netcoreapp2.0\Hello World! V3.runtimeconfig.dev.json
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\Hello World! V3\Hello World! V3\bin\Debug\netcoreapp2.0\Hello World! V3.dll
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\Hello World! V3\Hello World! V3\bin\Debug\netcoreapp2.0\Hello World! V3.pdb
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\Hello World! V3\Hello World! V3\obj\Debug\netcoreapp2.0\Hello World! V3.csprojResolveAssemblyReference.cache
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\Hello World! V3\Hello World! V3\obj\Debug\netcoreapp2.0\Hello World! V3.csproj.CoreCompileInputs.cache
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\Hello World! V3\Hello World! V3\obj\Debug\netcoreapp2.0\Hello World! V3.AssemblyInfoInputs.cache
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\Hello World! V3\Hello World! V3\obj\Debug\netcoreapp2.0\Hello World! V3.AssemblyInfo.cs
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\Hello World! V3\Hello World! V3\obj\Debug\netcoreapp2.0\Hello World! V3.dll
+C:\Users\aznke_000\Dropbox\Engineering EN01\2018\Semester 1\CAB201 - Programming Principles\Assessment\AMS Portfolio\Week 1\Hello World! V3\Hello World! V3\obj\Debug\netcoreapp2.0\Hello World! V3.pdb
